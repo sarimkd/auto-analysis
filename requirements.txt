@@ -1,0 +1,11 @@
+streamlit
+pandas
+streamlit_pandas
+pandas_profiling
+streamlit_pandas_profiling
+altair
+vaderSentiment
+textblob
+prophet
+plotly
+pystan
