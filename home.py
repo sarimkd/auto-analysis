@@ -4,7 +4,7 @@ import pandas as pd
 linkedin = "https://www.linkedin.com/in/sarimkhanskd"
 
 # set page title
-st.set_page_config(page_title="home")
+st.set_page_config(page_title="Auto Analysis")
 
 # define a function to read uploaded csv file and store it in session state
 #@st.cache_data
